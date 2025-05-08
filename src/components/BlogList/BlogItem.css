@@ -1,0 +1,27 @@
+.blog-item-wrapper{
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    column-gap: 10px;
+}
+h3{
+    font-size: 30px;
+    font-weight: 500;
+}
+.blog-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    color: gray;
+}
+.blog-desc{
+    font-size: 24px;
+    line-height: 1.5;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}

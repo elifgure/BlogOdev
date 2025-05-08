@@ -1,0 +1,65 @@
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+.bloglist-header {
+  border-bottom: 1px solid rgb(188, 184, 184);
+  margin: 0 0 30px;
+  padding: 20px 0;
+  text-align: center;
+}
+h1 {
+  font-size: 40px;
+  font-weight: 500;
+}
+.blog-wrapper {
+  display: flex;
+  gap: 20px;
+}
+.blog-content{
+    width: 60%;
+}
+.add-blog-wrapper {
+  width: 40%;
+  padding: 20px;
+  border-radius: 8px;
+  height: fit-content;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.search-blogs {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  padding: 15px;
+  gap: 30px;
+  margin-bottom: 15px;
+}
+.search-input {
+  flex: 1;
+}
+.search-input input {
+  padding: 10px;
+  border: 1px solid rgb(188, 184, 184);
+  outline: none;
+  font-size: 15px;
+  border-radius: 5px;
+  width: 100%;
+}
+.select {
+  align-items: center;
+  gap: 10px;
+  display: flex;
+}
+.select select{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 14px;
+}
+.select label {
+    font-size: 14px;
+    white-space: nowrap; /* Sort By: satır kırılmasın */
+  }

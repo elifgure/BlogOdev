@@ -1,0 +1,56 @@
+/* Temel buton stili */
+.btn {
+    font-family: inherit;
+    font-size: 1rem;
+    padding: 0.5em 1.2em;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 0.3em;
+  }
+  
+  /* Renk varyasyonları */
+  .btn-primary {
+    background-color: #007bff;
+    color: white;
+  }
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    color: white;
+  }
+  .btn-success:hover {
+    background-color: #1e7e34;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    color: white;
+  }
+  .btn-danger:hover {
+    background-color: #a71d2a;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    color: white;
+  }
+  .btn-secondary:hover {
+    background-color: #565e64;
+  }
+  
+  /* Boyut varyasyonları */
+  .btn-small {
+    padding: 0.5em 0.9em;
+    font-size: 1rem;
+  }
+  
+  .btn-large {
+    padding: 0.8em 1.6em;
+    font-size: 1.2rem;
+  }
+  

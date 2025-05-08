@@ -1,0 +1,31 @@
+.add-blog-container{
+   margin: 0 auto;
+}
+h2{
+    border-bottom: 1px solid rgb(188, 184, 184);
+    padding: 5px 0;
+    font-size: 30px;
+    font-weight: 500;
+}
+.add-blog-form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.add-blog-form label{
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 3px;
+}
+.add-blog-form input{
+    padding: 20px;
+    outline: none;
+    border: 1px solid rgb(188, 184, 184);
+    font-size: 20px;
+    border-radius: 10px;
+}
+.form-control {
+    display: flex;
+    flex-direction: column;
+  }
