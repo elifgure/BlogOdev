@@ -18,7 +18,7 @@ git clone https://github.com/kullaniciAdi/proje-adi.git](https://github.com/elif
     npm start
     
 
-📦 Kullanılan Teknolojiler
+📦 **Kullanılan Teknolojiler**
 
     React
     
