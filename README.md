@@ -12,12 +12,19 @@ git clone https://github.com/kullaniciAdi/proje-adi.git](https://github.com/elif
 2️⃣ Projeleri açmak için VS Code veya benzeri bir kod editörü kullanın.
 
 3️⃣ Gerekli Paketleri Yükleyin
+
     npm install
+    
     npm start
+    
 
 📦 Kullanılan Teknolojiler
+
     React
+    
     JavaScript
+    
     CSS
+    
 ![image](https://github.com/user-attachments/assets/9b5de31c-25fd-43ea-b10e-b636bbe478fe)
 
