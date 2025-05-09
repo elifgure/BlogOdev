@@ -1,16 +1,29 @@
-<<<<<<< HEAD
-# React + Vite
+<<<<<<< BLOG YÖNETİM UYGULAMASI
+# Blog Yönetim Uygulaması
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, React ile geliştirilmiş basit bir blog uygulamasıdır. Kullanıcılar blog yazıları ekleyebilir, düzenleyebilir ve silebilir.
 
-Currently, two official plugins are available:
+## 🚀 Projeyi Çalıştırmak için Gerekli Adımlar
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1. Depoyu Klonla
 
-## Expanding the ESLint configuration
+📂 Repo İçeriği
+📁 html/ → HTML derslerine ait dosyalar
+📁 css/ → CSS ile ilgili projeler ve örnekler
+📁 javascript/ → JavaScript uygulamaları
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# BlogOdev
->>>>>>> e896df63a972c5354572b817da667ca34090096f
+📌 Nasıl Kullanılır?
+1️⃣ Bu repoyu bilgisayarınıza klonlayın:
+
+git clone https://github.com/kullaniciAdi/proje-adi.git](https://github.com/elifgure/BlogOdev.git
+2️⃣ Projeleri açmak için VS Code veya benzeri bir kod editörü kullanın.
+
+3️⃣ Gerekli Paketleri Yükleyin
+    npm install
+    npm start
+
+
+📦 Kullanılan Teknolojiler
+    React
+    JavaScript
+    CSS
