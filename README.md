@@ -19,3 +19,5 @@ git clone https://github.com/kullaniciAdi/proje-adi.git](https://github.com/elif
     React
     JavaScript
     CSS
+![Ekran Görüntüsü](![image](https://github.com/user-attachments/assets/77481c5b-a485-46a6-8ae6-cf6df48f6000)
+)
