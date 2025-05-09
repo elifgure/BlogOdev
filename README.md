@@ -3,7 +3,7 @@
 
 Bu proje, React ile geliştirilmiş basit bir blog uygulamasıdır. Kullanıcılar blog yazıları ekleyebilir, düzenleyebilir ve silebilir.
 
-📌 Nasıl Kullanılır?
+📌** Nasıl Kullanılır?**
 
 1️⃣ Bu repoyu bilgisayarınıza klonlayın:
 
